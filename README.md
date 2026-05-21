@@ -76,5 +76,16 @@ Contato
 - LinkedIn: https://linkedin.com/in/jpcamargoo  
 - Email: jpcamargoo@gmail.com
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpcamargoo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcamargoo&layout=compact&theme=transparent&hide_border=true)
+
+</div>
 
 
