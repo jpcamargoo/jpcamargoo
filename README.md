@@ -90,19 +90,22 @@ Contato
 
 ---
 
+---
+
 ## 📊 GitHub Stats — Premium
 
 <div align="center">
 
 <!-- Stats principais -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcamargoo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jpcamargoo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
 <!-- Linguagens -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcamargoo&layout=compact&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jpcamargoo&layout=compact&theme=transparent&hide_border=true" />
 
 <!-- Streak -->
 <img height="180em" src="https://streak-stats.demolab.com?user=jpcamargoo&theme=transparent&hide_border=true" />
 
 </div>
+
 
 
